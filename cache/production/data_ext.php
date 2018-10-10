@@ -1,0 +1,4 @@
+<?php exit; ?>
+1553424282
+661
+a:4:{s:21:"phpbb/googleanalytics";a:4:{s:8:"ext_name";s:21:"phpbb/googleanalytics";s:10:"ext_active";s:1:"1";s:9:"ext_state";s:4:"b:0;";s:8:"ext_path";s:26:"ext/phpbb/googleanalytics/";}s:13:"phpbb/viglink";a:4:{s:8:"ext_name";s:13:"phpbb/viglink";s:10:"ext_active";s:1:"1";s:9:"ext_state";s:4:"b:0;";s:8:"ext_path";s:18:"ext/phpbb/viglink/";}s:14:"stevotvr/flair";a:4:{s:8:"ext_name";s:14:"stevotvr/flair";s:10:"ext_active";s:1:"1";s:9:"ext_state";s:4:"b:0;";s:8:"ext_path";s:19:"ext/stevotvr/flair/";}s:13:"threedi/tpotm";a:4:{s:8:"ext_name";s:13:"threedi/tpotm";s:10:"ext_active";s:1:"1";s:9:"ext_state";s:4:"b:0;";s:8:"ext_path";s:18:"ext/threedi/tpotm/";}}

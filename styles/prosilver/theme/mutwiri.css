@@ -1,0 +1,22 @@
+	/*
+		* @author/Developer: Patrick Mutwiri
+		* Email: patwiri@gmail.com
+		* @link/GIT: https://github.com/patricmutwiri
+		* @link/Twitter: https://twitter.com/patric_mutwiri
+		* Call: +254727542899
+		* @link/Site: http://patric.xyz
+
+	    --------------------------------------------------------------
+	    | 		*******       **      ************ ************		 |
+        | 		*******       **      ************ ************		 |
+        | 		***  **     **  **         ***     ***      ***		 |
+        | 		***  **     **  **         ***     ***      ***		 |
+        | 		*******    ********        ***     ***      ***		 |
+        | 		*******    ********        ***     ***      ***		 |
+        | 		***       **      **       ***     ************		 |
+        | 		***       **      **       ***     ************		 |
+        --------------------------------------------------------------
+	*/
+	.wrap {max-width: 90%;}
+	.wrap, #tabs .activetab > a, #tabs .activetab > a:hover, .dropdown .dropdown-contents, .headerbar, .forumbg, .panel, .navbar{border-radius: 0px}
+	.copyright{color: black; padding: 15px}
